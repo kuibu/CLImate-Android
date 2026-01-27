@@ -1,0 +1,10 @@
+# Android CLI Agent 依赖
+
+# LLM 客户端
+anthropic>=0.40.0
+
+# 系统信息
+psutil>=5.9.0
+
+# 可选：其他 LLM 支持
+# openai>=1.0.0

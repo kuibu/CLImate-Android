@@ -1,0 +1,22 @@
+{
+  "llm_provider": "claude",
+  "api_keys": {
+    "claude": "sk-ant-your-api-key-here",
+    "openai": ""
+  },
+  "model": "claude-3-5-sonnet-20241022",
+  "max_tokens": 4096,
+  "temperature": 0.7,
+  "safety": {
+    "require_confirmation": true,
+    "allowed_commands": [],
+    "blocked_commands": [
+      "rm -rf /",
+      "dd if=",
+      "mkfs",
+      ":(){:|:&};:",
+      "chmod -R 777 /",
+      "> /dev/sda"
+    ]
+  }
+}
