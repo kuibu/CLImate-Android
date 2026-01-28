@@ -1,5 +1,7 @@
 # CLImate-Android 🐍
 
+**[English](./README_EN.md) | 简体中文**
+
 > *一条在系统底层游走的蛇，替你咬住该咬的地方。*
 
 类似 Claude Code 的移动端 CLI Agent，让你用自然语言控制 Android 手机！

@@ -1,5 +1,7 @@
 # CLImate-Android 🐍
 
+**English | [简体中文](./README.md)**
+
 > *A snake navigating the system depths, striking at the right spots for you.*
 
 An AI-powered mobile CLI Agent similar to Claude Code, allowing you to control your Android phone with natural language!
